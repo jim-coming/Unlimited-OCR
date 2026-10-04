@@ -1,0 +1,18 @@
+# Install the CUDA-enabled PyTorch/torchvision packages for your hardware first.
+# Install llama-cpp-python with CUDA separately; see README.md.
+# Versions below come from this Jetson's LLM environment.
+gradio==5.49.1
+transformers==4.57.1
+sentence-transformers==5.6.0
+faiss-cpu==1.14.3
+numpy==1.26.4
+PyMuPDF==1.27.2.2
+Pillow==11.3.0
+einops==0.8.2
+addict==2.4.0
+easydict==1.13
+psutil==7.2.2
+accelerate
+fastapi==0.139.2
+uvicorn==0.51.0
+python-multipart==0.0.32
