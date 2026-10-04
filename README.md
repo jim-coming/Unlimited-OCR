@@ -10,7 +10,7 @@
 
 ![Jetson 實機：Unlimited-OCR 文件問答與 PDF 上傳完成](docs/screenshots/jetson-gradio-upload.png)
 
-圖片保留原始截圖內容，來源與 SHA-256 記錄於 [截圖說明](docs/screenshots/README.md)。
+圖片已裁除上方瀏覽器列與左側桌面工具列，保留應用程式畫面；來源、裁切範圍與 SHA-256 記錄於 [截圖說明](docs/screenshots/README.md)。
 
 ## 功能
 
